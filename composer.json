@@ -1,5 +1,5 @@
 {
-    "name": "netresearch/composer-patches-plugin",
+    "name": "dooug/composer-patches-plugin",
     "type": "composer-plugin",
     "license": "GPL-2.0",
     "description": "Composer patches plugin",
